@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Action Bar Demo</string>
+    <string name="Item1">item1</string>
+    <string name="Item2">item2</string>
+</resources>
